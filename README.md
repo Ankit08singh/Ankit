@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit08singh" alt="ankit08singh" /></a> </p>
 
 <img align="right" alt="Coding" width="400"   src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=790b7611ukwm6mh1joqum6rrblqu4hafbhgs30ys4p9ppaxc&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
 - 🌱 I’m currently learning **React, next.js, keras...**
 
 - 💬 Ask me about **React, ML**
